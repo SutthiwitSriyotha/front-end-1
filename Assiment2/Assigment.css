@@ -1,0 +1,46 @@
+
+    body {
+        text-align: center;
+    }
+ 
+    .box1 {
+    background-color:pink;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+}
+.box2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    height: 50px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.box3 {
+    background-color: grey;
+    color: white;
+    height: 550px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: left;
+}
+.box4 {
+    background-color: blueviolet;
+    text-align: center;
+    height: 50px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
